@@ -12,6 +12,6 @@ module.exports = {
     }
   },
   server: {
-    port: 1234,
+    port: 1112,
   },
 };
